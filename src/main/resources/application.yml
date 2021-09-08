@@ -1,0 +1,9 @@
+
+cloud.aws.credentials.accessKey:
+cloud.aws.credentials.secretKey:
+
+localstack:
+  secretmanager:
+    url: http://localhost:4566
+    secretid: "senha_teste"
+
